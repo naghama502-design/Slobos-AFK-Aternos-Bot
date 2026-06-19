@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "server-demo_207.aternos.me",
-    "port":  41281,
+    "ip": "merstens_709.aternos.me",
+    "port": 58170,
     "version": "",
     "try-creative": false
   },
